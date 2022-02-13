@@ -27,7 +27,7 @@
 <br />
 
 
-[website]: https://www.linkedin.com/in/huy-ho%C3%A0ng-l%C3%AA-a34b3021b/
+
 [course]: https://www.coursera.org/account/accomplishments/certificate/T6MZQKY8GTKS
 [facebook]: https://www.facebook.com/profile.php?id=100011026607041
 [instagram]: https://www.instagram.com/troidaysao/
