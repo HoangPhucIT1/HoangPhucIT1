@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @HoangPhucIT1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-HoangPhucIT1/HoangPhucIT1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I'm Hoang Phuc 👋
+I'm a Sophomore at Hanoi University of Science and Techonology !!
+🔭 I have finished 2 courses: Machine Learning! and Deep Learning Specialization!
+🌱 I'm studying computer science 💯
+⚡ Fun fact: I love basketball ️🏀
