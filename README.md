@@ -31,4 +31,4 @@
 [course]: https://www.coursera.org/account/accomplishments/certificate/T6MZQKY8GTKS
 [facebook]: https://www.facebook.com/profile.php?id=100011026607041
 [instagram]: https://www.instagram.com/troidaysao/
-[course2]: https://www.coursera.org/account/accomplishments/specialization/certificate/2YSH3HDPFTJD
+
