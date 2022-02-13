@@ -26,4 +26,16 @@
 <br />
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangPhucIT1how_icons=true&theme=radical)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangPhucIT1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[website]: https://www.linkedin.com/in/huy-ho%C3%A0ng-l%C3%AA-a34b3021b/
+[course]: https://www.coursera.org/account/accomplishments/certificate/T6MZQKY8GTKS
+[facebook]: https://www.facebook.com/hoanglht1821/
+[instagram]: https://www.instagram.com/huyhoang_02/
+[linkedin]: https://www.linkedin.com/in/huy-ho%C3%A0ng-l%C3%AA-a34b3021b/
+[course2]: https://www.coursera.org/account/accomplishments/specialization/certificate/2YSH3HDPFTJD
