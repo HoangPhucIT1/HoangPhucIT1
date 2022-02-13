@@ -26,12 +26,6 @@
 <br />
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangPhucIT1how_icons=true&theme=radical)
-
-
-
-
-
 
 [website]: https://www.linkedin.com/in/huy-ho%C3%A0ng-l%C3%AA-a34b3021b/
 [course]: https://www.coursera.org/account/accomplishments/certificate/T6MZQKY8GTKS
